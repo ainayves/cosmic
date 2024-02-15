@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/hairun-pc-yves/Documents",
+  "_repo_dir": "/home/hairun-pc-yves/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Aina Yves",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "randrianaina.yves@gmail.com",
+  "friendly_name": "Cosmic",
+  "github_user": "ainayves",
+  "license": "MIT",
+  "package_name": "cosmic",
+  "project_name": "cosmic",
+  "version": "0.0.0"
+}
